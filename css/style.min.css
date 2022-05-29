@@ -109,6 +109,37 @@ abbr[title] {
     text-decoration-skip-ink: none
 }
 
+/* GYM Feature Begin */
+.section-title{
+    text-align: center;
+    font-weight: bold;
+}
+.nd{
+    text-align: center;
+
+   
+}
+.slider-row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 15px;
+}
+.col-4{
+    flex-basis: 24%;
+    width: 300px;
+    float: left;
+}
+.col-4 img{
+    width: 100%;
+    height: 250px;
+}
+.col-4:hover{
+    transform: translate(-5px);
+}
+/* GYM Feature End */
+
 address {
     margin-bottom: 1rem;
     font-style: normal;
