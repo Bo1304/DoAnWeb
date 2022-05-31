@@ -10898,3 +10898,50 @@ a.text-dark:hover {
     background-repeat: no-repeat;
     background-size: cover
 }
+
+.content_details{
+    width: 1000px;
+    margin: auto;
+}
+
+.kickfit-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/kickfit-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.rpm-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/rpm-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.yoga-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/yoga-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodypump-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/bodypump-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodycompat-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/bodycompat-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodybalance-header{
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/bodybalance-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
