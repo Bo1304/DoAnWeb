@@ -10898,3 +10898,50 @@ a.text-dark:hover {
     background-repeat: no-repeat;
     background-size: cover
 }
+
+.content_details{
+    width: 1000px;
+    margin: auto;
+}
+
+.kickfit-header{
+    background: url(../img/kickfit-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.rpm-header{
+    background: url(../img/rpm-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.yoga-header{
+    background: url(../img/yoga-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodypump-header{
+    background: url(../img/bodypump-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodycompat-header{
+    background: url(../img/bodycompat-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bodybalance-header{
+    background: url(../img/bodybalance-header.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover
+}
