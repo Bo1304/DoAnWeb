@@ -134,6 +134,7 @@ abbr[title] {
 .col-4 img{
     width: 100%;
     height: 250px;
+    border-radius: 25px;
 }
 .col-4:hover{
     transform: translate(-5px);
